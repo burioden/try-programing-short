@@ -1,0 +1,63 @@
+h1,h2,h3,p {
+    color: #565656;
+    text-align: center;
+}
+
+ul {
+    color: #565656;
+}
+
+a {
+    color: #fff;
+}
+
+.copy {
+    color: #fff;
+    font-size: 9px;
+}
+
+.header {
+    background-color: #fff2e5;
+}
+
+.point_1 {
+    background-color: #fff1cf;
+}
+
+.point_2 {
+    background-color: #98d98e;
+}
+
+.point_3 {
+    background-color: #bce2e8;
+}
+
+.recommend {
+    background-color: #ffebeb;
+}
+
+.footer {
+    background-color: #455765;
+}
+
+.logo img {
+    width: 30px;
+}
+
+.main_visual img {
+    width: 100%;
+}
+
+.box div {
+    width: 250px;
+    height: 250px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
